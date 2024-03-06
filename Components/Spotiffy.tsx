@@ -259,7 +259,7 @@ export default function Spotiffy() {
                   style={styles.PlaylistCard}
                 />
               </View>
-              <Text style={styles.text}>The Local Train</Text>
+              <Text style={styles.text}>Rutho Jo Tum</Text>
             </View>
 
             <View style={styles.cardAndTextContainer}>
@@ -271,7 +271,7 @@ export default function Spotiffy() {
                   style={styles.PlaylistCard}
                 />
               </View>
-              <Text style={styles.text}>The Local Train</Text>
+              <Text style={styles.text}>Save Your Tears</Text>
             </View>
           </ScrollView>
         </View>
