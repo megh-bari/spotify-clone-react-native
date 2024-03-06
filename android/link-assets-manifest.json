@@ -1,0 +1,157 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Fonts Magazine.txt",
+      "sha1": "b4797bb664813fc9321e38d2733ea85ba4818d95"
+    },
+    {
+      "path": "assets/fonts/Gotham-Black.otf",
+      "sha1": "a3cdcc0c2ff9c6289ccc5ae1bb9eade3395626da"
+    },
+    {
+      "path": "assets/fonts/Gotham-Bold.otf",
+      "sha1": "5963224900d40f243ab3c8ec35f21adfbb60cf1d"
+    },
+    {
+      "path": "assets/fonts/Gotham-BookItalic.otf",
+      "sha1": "de824c676848ccff284754eb83aa423c204aa3c7"
+    },
+    {
+      "path": "assets/fonts/Gotham-Light.otf",
+      "sha1": "3abc902e40df2ec26333b919d268556bfc6cb723"
+    },
+    {
+      "path": "assets/fonts/Gotham-Thin.otf",
+      "sha1": "8c674e85861583ea43c472973a3b09da9ba4d792"
+    },
+    {
+      "path": "assets/fonts/Gotham-ThinItalic.otf",
+      "sha1": "a37567b03b962ddfa20131463b2753174e92d593"
+    },
+    {
+      "path": "assets/fonts/Gotham-UltraItalic.otf",
+      "sha1": "ac639d09e69620d6a06f9c6a6f73c853818cdbf9"
+    },
+    {
+      "path": "assets/fonts/Gotham-XLight.otf",
+      "sha1": "c370235de05219139b91d7ef68ea560d0bf90b4b"
+    },
+    {
+      "path": "assets/fonts/Gotham-XLightItalic.otf",
+      "sha1": "afc40a573f2612530c9777feef9c456009caa38f"
+    },
+    {
+      "path": "assets/fonts/GothamBold.ttf",
+      "sha1": "ac5ba291bf8464df67a38f6054d25be7c2e0307f"
+    },
+    {
+      "path": "assets/fonts/GothamBoldItalic.ttf",
+      "sha1": "da6475cdce15b579ec90a27b5cafead0687c3f5a"
+    },
+    {
+      "path": "assets/fonts/GothamBook.ttf",
+      "sha1": "ed5bc8195822fc962503b042d0f5a1f406782f24"
+    },
+    {
+      "path": "assets/fonts/GothamBookItalic.ttf",
+      "sha1": "b156aeb90bd308fd0a717d9633d5a82e3af7c76b"
+    },
+    {
+      "path": "assets/fonts/GothamLight.ttf",
+      "sha1": "c44d6c4bde608e1d76b27a1587da83225af4ca4f"
+    },
+    {
+      "path": "assets/fonts/GothamLightItalic.ttf",
+      "sha1": "d605afce503bf950089829954651052dbb377c91"
+    },
+    {
+      "path": "assets/fonts/GothamMedium.ttf",
+      "sha1": "74c87f67010f63777e33c5114c76b1fc67e4ae5b"
+    },
+    {
+      "path": "assets/fonts/GothamMediumItalic.ttf",
+      "sha1": "c77627e4242f0edc56145897b900854a2960b3e1"
+    },
+    {
+      "path": "assets/fonts/GothamMedium_1.ttf",
+      "sha1": "74c87f67010f63777e33c5114c76b1fc67e4ae5b"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "9f27955a401cc9ea5ba3503027a4ea502c87e70c"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    }
+  ]
+}
